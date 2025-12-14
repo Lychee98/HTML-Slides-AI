@@ -1,2 +1,2 @@
-# WORK-Efficiency
-Some AI tools to improve work efficiency
+# HTML-Slides-AI
+AI tool for slides
